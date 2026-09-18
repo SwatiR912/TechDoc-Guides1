@@ -100,4 +100,4 @@ Spend an hour, within two weeks, on three questions:
 ## Related
 
 - [Running a documentation review](running-a-documentation-review.md)
-- [Reviewing and updating an existing documentation set](updating-an-existing-doc-set.md)
+- [Maintaining an existing documentation set](maintaining-an-existing-doc-set.md)
