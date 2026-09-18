@@ -29,7 +29,7 @@ Read it as the intended reader. Do not annotate; read it through.
 
 If the answer to the first question is "two documents", stop. Everything else is premature. Say so, propose the split, and send it back.
 
-### Pass 2 — Is it accurate?
+### Pass 2 — Is it accurate? (technical review)
 
 Verify rather than assume. This is the pass that justifies your existence as a reviewer.
 
@@ -48,7 +48,7 @@ You will not always have an environment. When you cannot verify something, say s
 - Are warnings placed before the action they apply to?
 - Is terminology consistent with the rest of the set, not just internally consistent?
 
-### Pass 4 — Language
+### Pass 4 — Language (editorial review)
 
 Passive voice where the actor matters, hedging, sentence length, heading parallelism, the style-guide rules. Last, and least, because it is the easiest to fix and the least important to the reader.
 
@@ -92,4 +92,4 @@ A useful check: after your review, could the author make every required change t
 ## Related
 
 - [Planning a documentation project](planning-a-documentation-project.md)
-- [Auditing an existing documentation set](auditing-an-existing-doc-set.md)
+- [Reviewing and updating an existing documentation set](updating-an-existing-doc-set.md)
