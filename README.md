@@ -10,7 +10,7 @@ Each guide is written to be handed to someone else and followed — a working pr
 | --- | --- |
 | [Running a documentation review](guides/running-a-documentation-review.md) | A draft needs review feedback that improves it without demoralising the author. |
 | [Planning a documentation project](guides/planning-a-documentation-project.md) | A product is shipping and nobody has decided what documentation it needs. |
-| [Reviewing and updating an existing documentation set](guides/updating-an-existing-doc-set.md) | Documentation has been inherited or has drifted over several releases, and needs assessing before it can be updated. |
+| [Maintaining an existing documentation set](guides/maintaining-an-existing-doc-set.md) | Documentation has been inherited or has drifted over several releases, and needs assessing before it can be updated. |
 
 ## Why these three
 
