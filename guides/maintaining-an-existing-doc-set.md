@@ -1,6 +1,8 @@
-# Reviewing and updating an existing documentation set
+# Maintaining an existing documentation set
 
 How to assess documentation that already exists — inherited from another writer, or grown over several releases — and turn the findings into an update plan.
+
+Throughout this guide, *content review* means assessing the set as a whole. For reviewing a single draft before it ships, see [Running a documentation review](running-a-documentation-review.md).
 
 This is maintenance work, the last phase of the documentation development lifecycle and the one most often skipped. Two things make it useless: assessing the content against personal taste rather than user need, and producing a findings list so long that it reads as "everything is wrong", which is the same as saying nothing.
 
@@ -109,4 +111,4 @@ Structure the report so that someone who reads only the first page can act.
 ## Related
 
 - [Planning a documentation project](planning-a-documentation-project.md) — what to do with the gap list.
-- [Running a documentation review](running-a-documentation-review.md) — the single-document version of this.
+- [Running a documentation review](running-a-documentation-review.md) — reviewing one draft, rather than a whole set.
