@@ -58,13 +58,13 @@ Passive voice where the actor matters, hedging, sentence length, heading paralle
 
 **Say what is wrong, where, and why it matters.** "This is confusing" is not actionable. "Step 3 assumes the endpoint already exists, but nothing has created it — a reader following in order will fail here" is.
 
-**Separate what must change from what you would do differently.** Authors cannot tell the difference unless you tell them, and they will either fight every comment or accept every comment. Both are bad. I label them:
+**Separate what must change from what you would do differently.** Authors cannot tell the difference unless they are told, and they will either fight every comment or accept every comment. Both are bad. Label them:
 
 | Label | Meaning |
 | --- | --- |
 | **Blocker** | Ship this and a reader fails, gets locked out, or loses data. |
 | **Should fix** | The reader will succeed but stumble. |
-| **Suggestion** | My preference. Take it or leave it, and I will not ask again. |
+| **Suggestion** | A preference. The author can take it or leave it, and it is not raised again. |
 
 **Give the rewrite when the fix is wording.** Explaining what is wrong with a sentence takes longer than writing a better one, for you and for them.
 
