@@ -71,7 +71,7 @@ Order the work so that the riskiest unknowns surface first:
 
 Never sequence alphabetically or by document type. Sequence by what could go wrong.
 
-## Step 6: Agree what "done" means, in writing
+## Step 6: Agree the deliverables and what "done" means
 
 Before starting, agree with the product owner:
 
@@ -100,4 +100,4 @@ Spend an hour, within two weeks, on three questions:
 ## Related
 
 - [Running a documentation review](running-a-documentation-review.md)
-- [Auditing an existing documentation set](auditing-an-existing-doc-set.md)
+- [Reviewing and updating an existing documentation set](updating-an-existing-doc-set.md)
