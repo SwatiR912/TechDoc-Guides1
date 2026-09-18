@@ -92,4 +92,4 @@ A useful check: after your review, could the author make every required change t
 ## Related
 
 - [Planning a documentation project](planning-a-documentation-project.md)
-- [Reviewing and updating an existing documentation set](updating-an-existing-doc-set.md)
+- [Maintaining an existing documentation set](maintaining-an-existing-doc-set.md) — reviewing a whole set, rather than one draft.
