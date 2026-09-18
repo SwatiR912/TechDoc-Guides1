@@ -14,9 +14,9 @@ Each guide is written to be handed to someone else and followed — a working pr
 
 ## Why these three
 
-Writing is the visible part of the job and the smallest share of the hours. What decides whether documentation is any good happens before the writing, when scope is set, and after it, when someone reviews it honestly or audits what has drifted.
+Writing is the visible part of the job and the smallest share of the hours. What decides whether documentation is any good happens before the writing, when scope is set, and after it, when someone reviews it honestly or checks what has drifted since the last release.
 
-All three guides share one bias: **make the judgement explicit**. A review that says "looks good" teaches nobody. An audit that reports 300 findings without ranking them will be ignored. A plan that lists every document a product could have is not a plan.
+All three guides share one bias: **make the judgement explicit**. A review that says "looks good" teaches nobody. A review that reports 300 findings without ranking them will be ignored. A plan that lists every document a product could have is not a plan.
 
 ---
 
